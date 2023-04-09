@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Flashcards (Java)/task/build/
+/Flashcards (Java)/task/out/
+/Flashcards (Java)/task/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Kidnapper of Ice cream/out/
+/Topics/The Map interface/Kidnapper of Ice cream/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
